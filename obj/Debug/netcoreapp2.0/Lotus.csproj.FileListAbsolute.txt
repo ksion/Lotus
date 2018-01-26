@@ -1,0 +1,10 @@
+/Users/ksion1/Sites/Lotus/bin/Debug/netcoreapp2.0/Lotus.deps.json
+/Users/ksion1/Sites/Lotus/bin/Debug/netcoreapp2.0/Lotus.runtimeconfig.json
+/Users/ksion1/Sites/Lotus/bin/Debug/netcoreapp2.0/Lotus.runtimeconfig.dev.json
+/Users/ksion1/Sites/Lotus/bin/Debug/netcoreapp2.0/Lotus.dll
+/Users/ksion1/Sites/Lotus/bin/Debug/netcoreapp2.0/Lotus.pdb
+/Users/ksion1/Sites/Lotus/obj/Debug/netcoreapp2.0/Lotus.csproj.CoreCompileInputs.cache
+/Users/ksion1/Sites/Lotus/obj/Debug/netcoreapp2.0/Lotus.AssemblyInfoInputs.cache
+/Users/ksion1/Sites/Lotus/obj/Debug/netcoreapp2.0/Lotus.AssemblyInfo.cs
+/Users/ksion1/Sites/Lotus/obj/Debug/netcoreapp2.0/Lotus.dll
+/Users/ksion1/Sites/Lotus/obj/Debug/netcoreapp2.0/Lotus.pdb
